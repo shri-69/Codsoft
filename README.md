@@ -1,2 +1,2 @@
 # Codsoft
-This is my Web development internship project offered by Codsoft
+This is my Web development and Python programming internship projects offered by Codsoft
