@@ -7,5 +7,5 @@
 ##This is my Python programming internship projects offered by Codsoft
 
 1. Task 1: To Do list
-2. Task 2: Password Renerator
-3. task 3: Rock paper scissor Game 
+2. Task 3: Password Renerator
+3. task 4: Rock paper scissor Game 
